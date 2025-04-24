@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skiddle-ID/.github/main/logo.png" alt="Scarlet Foundry Logo" width="200px" height="auto">
+</p>
+
 # Skiddle-ID
 
 Hi there 👋
