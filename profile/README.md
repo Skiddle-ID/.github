@@ -45,6 +45,9 @@ Check out the [Repositories](https://github.com/Skiddle-ID?tab=repositories) for
 *   [X (Twitter)](https://x.com/skiddleid)
 *   [RSS Feed](https://skiddle.id/feed)
 
-## License
-
-Unless otherwise specified, all projects are released under the [MIT License](https://gist.github.com/arcestia/dc2bef037daf25773cb972b69d22be09).
+---
+<!-- License + Copyright -->
+<p  align="center">
+  <i>© <a href="https://skiddle.id">Skiddle ID</a> 2025</i><br>
+  <i>Unless otherwise specified, all projects are released under <a href="https://gist.github.com/arcestia/dc2bef037daf25773cb972b69d22be09">MIT</a></i>
+</p>
