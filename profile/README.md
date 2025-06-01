@@ -47,4 +47,4 @@ Check out the [Repositories](https://github.com/Skiddle-ID?tab=repositories) for
 
 ## License
 
-Unless otherwise specified, all projects are released under the MIT License.
+Unless otherwise specified, all projects are released under the [MIT License](https://gist.github.com/arcestia/dc2bef037daf25773cb972b69d22be09).
