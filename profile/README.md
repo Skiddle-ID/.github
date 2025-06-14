@@ -29,12 +29,6 @@ Check out the [Repositories](https://github.com/Skiddle-ID?tab=repositories) for
 
 *   Website: [https://skiddle.id](https://skiddle.id)
 
-## Latest Writings
-
-*   My Q2 2025 Homelab: AI-Enhanced Self-Hosting with a Massive DIY NAS (April 2025)
-*   Goodbye Arc, Hello Zen: My Browser Switch (February 2025)
-*   Introducing Our Free API Service: CheckDomain (December 2024)
-
 ## Connect
 
 *   [Bluesky](https://bsky.app/profile/skiddle.id)
